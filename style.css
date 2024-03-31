@@ -1,0 +1,21 @@
+body
+{
+   background-image: none;
+   background-size: cover;
+   background-attachment: fixed;
+   
+}
+table{margin:auto ;width: 80%;
+    
+}
+table, th, td
+{
+    border:2px black solid;
+    border-radius: 0%;
+    opacity: .85c;
+}
+th, td {padding:10px; text-align: center;}
+
+th{
+    background-color: #4b6e4d;color:white;
+}
